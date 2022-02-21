@@ -29,7 +29,7 @@
     "simply-deferred": "git+https://github.com/Expensify/simply-deferred.git#77a08a95754660c7bd6e0b6979fdf84e8e831bf5",
     "underscore": "1.13.1"
   },
-  "peerDeppendencies": {
+  "peerDependencies": {
     "react": "^17.0.0",
     "react-dom": "^17.0.0",
   },
